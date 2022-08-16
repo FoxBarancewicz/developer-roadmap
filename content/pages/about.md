@@ -7,7 +7,7 @@ more contributors involved.
 
 ## What are the plans for roadmap.sh?
 
-The website started off as
+Today this website started off as
 a [simple repository containing a few charts](https://github.com/kamranahmedse/developer-roadmap) for developers and
 based on my personal opinions but it could have been much more than that so I decided to expand it to a website where
 people can contribute to study plans with their areas of expertise as well, add more roadmaps, write guides etc.
